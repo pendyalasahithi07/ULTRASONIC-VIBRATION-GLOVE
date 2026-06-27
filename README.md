@@ -4,6 +4,12 @@
 
 The Smart Ultrasonic Vibration Glove is a wearable assistive device designed to help visually impaired individuals detect nearby obstacles and navigate safely. The system uses ultrasonic sensors to measure the distance to obstacles and provides tactile feedback through a vibration motor.
 
+
+## Tinkercad Simulation
+You can view and run the simulation here:
+
+🔗 https://www.tinkercad.com/things/ljLrg2KxzTQ-2-2-mini-project?sharecode=3TEnOAZIDMV1-ySdZApEyBEg66Gkw_ntOTkESjwGaHA
+
 ## Features
 
 * Real-time obstacle detection
